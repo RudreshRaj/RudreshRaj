@@ -39,7 +39,7 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 ### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Rudresh_Raj&theme=light)
 
----
+<!---
 
 ### 📊 GitHub Stats and Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudreshRaj001&show_icons=true&count_private=true&hide_title=true&hide=prs)
@@ -48,7 +48,7 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 ### 🌟 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudreshRaj001)
 
----
+--->
 
 ### 🌐 Connect with me
 
